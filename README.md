@@ -1,2 +1,2 @@
-# Student_Exam_performance_Prediction_using_Machine_Learning
+# Student_Exam_performance_Prediction_using_Machine_Learning_AWS
 
